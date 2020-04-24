@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # pwa-web
 
 > A Vue.js project
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# vue-api
+Project Vue menggunakan API the meal db
+>>>>>>> bed3eac9cfc269c3204e759288adee822ad9446f
